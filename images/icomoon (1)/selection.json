@@ -1,0 +1,156 @@
+{
+  "IcoMoonType": "selection",
+  "icons": [
+    {
+      "icon": {
+        "paths": [
+          "M1024 0l-1024 576 327.253 121.173 504.747-473.173-383.915 517.973 0.299 0.085-0.384-0.085v282.027l183.509-214.101 232.533 86.101 159.957-896z"
+        ],
+        "attrs": [
+          {
+            "fill": "rgb(255, 255, 255)"
+          }
+        ],
+        "isMulticolor": false,
+        "isMulticolor2": false,
+        "grid": 0,
+        "tags": [
+          "icon send"
+        ]
+      },
+      "attrs": [
+        {
+          "fill": "rgb(255, 255, 255)"
+        }
+      ],
+      "properties": {
+        "order": 2,
+        "id": 4,
+        "name": "icon-send",
+        "prevSize": 32
+      },
+      "setIdx": 0,
+      "setId": 3,
+      "iconIdx": 0
+    },
+    {
+      "icon": {
+        "paths": [
+          "M512 512c141.385 0 256-114.615 256-256s-114.615-256-256-256v0c-141.385 0-256 114.615-256 256s114.615 256 256 256v0zM512 640c-170.837 0-512 85.76-512 256v64c0 35.157 28.843 64 64 64h896c35.157 0 64-28.843 64-64v-64c0-170.24-341.163-256-512-256z"
+        ],
+        "attrs": [
+          {}
+        ],
+        "isMulticolor": false,
+        "isMulticolor2": false,
+        "grid": 0,
+        "tags": [
+          "Vector"
+        ]
+      },
+      "attrs": [
+        {}
+      ],
+      "properties": {
+        "order": 4,
+        "id": 3,
+        "name": "Vector",
+        "prevSize": 32
+      },
+      "setIdx": 0,
+      "setId": 3,
+      "iconIdx": 1
+    },
+    {
+      "icon": {
+        "paths": [
+          "M877.422 667.282l-134.437-15.36c-3.702-0.461-7.987-0.725-12.334-0.725-29.090 0-55.426 11.793-74.487 30.859l-97.427 97.427c-150.962-77.917-270.931-197.909-346.728-344.447l-2.090-4.444 98.011-97.792c19.066-19.061 30.859-45.397 30.859-74.487 0-4.346-0.263-8.631-0.775-12.84l0.050 0.506-15.36-133.413c-6.366-52.966-51.033-93.623-105.196-93.623-0.046 0-0.091 0-0.137 0l-91.568-0c-59.831-0.146-109.568 49.591-105.911 109.349 28.087 452.023 389.632 813.056 841.143 841.143 59.758 3.657 109.568-46.080 109.568-105.911v-91.575c0.001-0.151 0.001-0.33 0.001-0.508 0-53.805-40.513-98.147-92.698-104.186l-0.487-0.046z"
+        ],
+        "attrs": [
+          {}
+        ],
+        "isMulticolor": false,
+        "isMulticolor2": false,
+        "grid": 0,
+        "tags": [
+          "Vector1"
+        ]
+      },
+      "attrs": [
+        {}
+      ],
+      "properties": {
+        "order": 3,
+        "id": 2,
+        "name": "Vector1",
+        "prevSize": 32
+      },
+      "setIdx": 0,
+      "setId": 3,
+      "iconIdx": 2
+    },
+    {
+      "icon": {
+        "paths": [
+          "M896 128h-768c-52.8 0-95.52 43.2-95.52 96l-0.48 576c0 52.8 43.2 96 96 96h768c52.8 0 96-43.2 96-96v-576c0-52.8-43.2-96-96-96zM876.8 332l-339.36 212.16c-15.36 9.6-35.52 9.6-50.88 0l-339.36-212.16c-12-7.68-19.2-20.64-19.2-34.56 0-32.16 35.040-51.36 62.4-34.56l321.6 201.12 321.6-201.12c27.36-16.8 62.4 2.4 62.4 34.56 0 13.92-7.2 26.88-19.2 34.56z"
+        ],
+        "attrs": [
+          {}
+        ],
+        "isMulticolor": false,
+        "isMulticolor2": false,
+        "grid": 0,
+        "tags": [
+          "Vector3"
+        ]
+      },
+      "attrs": [
+        {}
+      ],
+      "properties": {
+        "order": 6,
+        "id": 0,
+        "name": "Vector3",
+        "prevSize": 32
+      },
+      "setIdx": 0,
+      "setId": 3,
+      "iconIdx": 3
+    }
+  ],
+  "height": 1024,
+  "preferences": {
+    "showGlyphs": true,
+    "showQuickUse": true,
+    "showQuickUse2": true,
+    "showSVGs": true,
+    "fontPref": {
+      "prefix": "icon-",
+      "metadata": {
+        "fontFamily": "icomoon"
+      },
+      "metrics": {
+        "emSize": 1024,
+        "baseline": 6.25,
+        "whitespace": 50
+      },
+      "embed": false
+    },
+    "imagePref": {
+      "prefix": "icon-",
+      "png": true,
+      "useClassSelector": true,
+      "color": 0,
+      "bgColor": 16777215,
+      "classSelector": ".icon",
+      "name": "icomoon",
+      "autoHost": true
+    },
+    "historySize": 50,
+    "showCodes": true,
+    "gridSize": 16,
+    "quickUsageToken": {
+      "UntitledProject": "YWVmNGVlYjI3YTQwOGFjOTUxYWE1ZjQ4Mjg3OGMwZDEjMSMxNjQ3NTk5NDI3IyMjZjc4ODJiMzM5Zjlm"
+    }
+  }
+}
